@@ -5,10 +5,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: Faculties
+    permalink: /faculty/
+  - title: divider
   - title: Current Members
-    permalink: /people/
+    permalink: /member/
   - title: divider
-  - title: Research
-    permalink: /projects/
-  - title: divider
+  - - title: Alumni
+      permalink: /alumni/
 ---

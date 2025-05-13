@@ -14,7 +14,7 @@ profiles:
     content: /Personel/K_Cai.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Office: Technology Building, 410</p>
+      <p>Office: Technology Building, 405</p>
       <p>Email: kmcai@hust.edu.cn</p>
   - align: left
     image: /Personel/K_Shi.jpg

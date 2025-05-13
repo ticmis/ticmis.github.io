@@ -14,13 +14,13 @@ profiles:
     content: /Personel/K_Cai.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office: Technology Building, 410</p>
+      <p>Email: kmcai@hust.edu.cn</p>
   - align: left
     image: /Personel/K_Shi.jpg
     content: /Personel/K_Shi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Technology Building, 407</p>
+      <p>Office: Technology Building, 407</p>
+      <p>Email:kuns2@illinois.edu</p>
 ---

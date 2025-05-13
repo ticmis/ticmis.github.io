@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Spintronics Group # the website title (if blank, full name will be used instead)
+title: Applied Magnetics & Integration Group (AMI) # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
-last_name: Spintronics Group
+last_name: Applied Magnetics & Integration Group (AMI)
 contact_note: >
   Spin-orbit torque (SOT), Radio frequency (RF)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

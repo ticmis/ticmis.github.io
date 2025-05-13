@@ -2,14 +2,15 @@
 layout: page
 permalink: /alumni/
 title: Alumni
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: false
 nav_order: 6
 ---
 
 <head><style>
 ul.main > li::marker { content: "• "; }
-ul.sub { list-style-type: "- "; margin-left: 20px; }
+ul.main > li { font-weight: bold; }
+ul.sub { list-style-type: "- "; margin-left: 20px; font-weight: normal; }
 ul.sub > li::marker { content: "- "; }
 </style></head>
 <body>
@@ -27,3 +28,4 @@ ul.sub > li::marker { content: "- "; }
     </ul>
   </li>
 </ul>
+</body>

@@ -23,19 +23,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-current-members",
+        },{id: "nav-alumni",
+          title: "Alumni",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/alumni/";
+          },
+        },{id: "dropdown-faculties",
+              title: "Faculties",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/faculty/";
+              },
+            },{id: "dropdown-current-members",
               title: "Current Members",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/member/";
               },
-            },{id: "dropdown-research",
-              title: "Research",
+            },{id: "dropdown-",
+              title: "",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/";
+                window.location.href = "";
               },
             },{id: "post-a-post-with-plotly-js",
         

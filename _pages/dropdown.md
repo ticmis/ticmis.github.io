@@ -5,12 +5,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Current Members
+    permalink: /people/
   - title: divider
-  - title: projects
+  - title: Research
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
 ---

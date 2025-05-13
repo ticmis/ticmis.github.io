@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Technology Building, 405</p>
-      <p>Email: kmcai@hust.edu.cn</p>****
+      <p>Email: kmcai@hust.edu.cn</p>
       
   - align: left
     image: /Personel/Y_Zhou.jpg

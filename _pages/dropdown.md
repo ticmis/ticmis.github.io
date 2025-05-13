@@ -11,6 +11,6 @@ children:
   - title: Current Members
     permalink: /member/
   - title: divider
-  - - title: Alumni
-      permalink: /alumni/
+  - title: Alumni
+    permalink: /alumni/
 ---

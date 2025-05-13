@@ -83,10 +83,16 @@ profiles:
     content: /Personel/J_Liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    
+
   - align: left
     image: /Personel/K_Shi.jpg
     content: /Personel/K_Shi.md
     image_circular: false # crops the image to make it circular
     more_info: >
+
+
+test
+
+test
+
 ---

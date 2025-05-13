@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.hust.edu.cn/'>Huazhong University of Science and Technology</a>. <a href='https://phys.hust.edu.cn/'>School of Physics</a>
 
 profile:
   align: right

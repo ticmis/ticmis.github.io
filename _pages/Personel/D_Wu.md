@@ -1,0 +1,1 @@
+Hi! My name is Kun Shi, and I am currently an undergraduate research assistance in Prof. Cai's group. The title of my thesis is regarding the influence of external field to the SOT switching process.

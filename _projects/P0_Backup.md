@@ -3,7 +3,7 @@ layout: page
 title: Spin-orbit Torque
 description: 
 img: assets/img/r1/pic1.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---

@@ -15,5 +15,3 @@ For SOT studies, MuMax3 can incorporate torque effects from phenomena like the s
 Users can vary material parameters such as saturation magnetization, damping, anisotropy, and spin Hall angle to study how these affect the switching efficiency and critical current densities. The tool also supports visualization and export of time-resolved magnetization states, aiding in physical insight and comparison with experimental results.
 
 Overall, MuMax3 is a versatile and effective platform for modeling and optimizing SOT-driven magnetization switching in spintronic devices.
-
-{% endraw %}

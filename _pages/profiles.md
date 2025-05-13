@@ -14,6 +14,8 @@ profiles:
     content: /Personel/K_Cai.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 405</p>
+    <p>Email: kmcai@hust.edu.cn</p>****
       
   - align: left
     image: /Personel/Y_Zhou.jpg
@@ -21,13 +23,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Technology Building, 407</p>
-      <p>Email:kuns2@illinois.edu</p>
 
   - align: right
     image: /Personel/R_Shi.jpg
     content: /Personel/R_Shi.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 407</p>
       
   - align: left
     image: /Personel/Y_Zhu.jpg
@@ -35,13 +37,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Technology Building, 407</p>
-      <p>Email:kuns2@illinois.edu</p>
 
   - align: right
     image: /Personel/S_Hou.jpg
     content: /Personel/S_Hou.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 407</p>
       
   - align: left
     image: /Personel/J_Hua.jpg
@@ -49,13 +51,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Technology Building, 407</p>
-      <p>Email:kuns2@illinois.edu</p>
 
   - align: right
     image: /Personel/Y_Yuan.jpg
     content: /Personel/Y_Yuan.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 407</p>
       
   - align: left
     image: /Personel/H_Wang.jpg
@@ -63,13 +65,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Technology Building, 407</p>
-      <p>Email:kuns2@illinois.edu</p>
 
   - align: right
     image: /Personel/Z_Ye.jpg
     content: /Personel/Z_Ye.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 407</p>
       
   - align: left
     image: /Personel/D_Wu.jpg
@@ -83,6 +85,7 @@ profiles:
     content: /Personel/J_Liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    <p>Office: Technology Building, 407</p>
 
   - align: left
     image: /Personel/K_Shi.jpg
